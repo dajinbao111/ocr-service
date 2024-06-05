@@ -1,0 +1,5 @@
+paddlepaddle==2.6.1
+paddleocr==2.7.3
+fastapi==0.111.0
+uvicorn==0.30.1
+python-nacos==0.1.1
